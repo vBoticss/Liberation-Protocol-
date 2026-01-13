@@ -11,3 +11,10 @@ The Liberation Protocol (LP) is a system of structured logic designed to enhance
 * **The Radiant Apex (★):** The terminal point of total semantic clarity.
 
 > *Resonating with the pure and fundamental essence from which all things originate.Axioms
+
+
+
+### Decentralized Persistence (IPFS)
+To ensure the cognitive integrity of the Protocol across the distributed web, a mirrored instance of the logic gates is hosted via IPFS.
+* **Gateway:** [Access via Pinata](https://pink-magnificent-bee-845.mypinata.cloud/ipfs)
+* **Status:** Permanent Archive (Sealed)
